@@ -1,6 +1,5 @@
 [
   {
-    "id": 5,
     "slug": "ernest-private-dining",
     "name": "Ernest (Private Dining)",
     "venue_type": "restaurant",
@@ -18,12 +17,9 @@
     "booking_url": "https://www.ernestsf.com/private-events",
     "source_url": "https://www.ernestsf.com/private-events",
     "price_notes": "Private dining room up to 14 guests: $1,400 F&B minimum + $250 room fee. Full buyout (62 seated/120 standing): $16,000 F&B min + $2,500 room fee.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T21:58:18.037539+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 23,
     "slug": "southeast-community-center",
     "name": "Southeast Community Center (Alex Pitcher Pavilion)",
     "venue_type": "community-space",
@@ -41,12 +37,9 @@
     "booking_url": "https://www.sfpuc.gov/community/community-centers",
     "source_url": "https://www.sfpuc.gov/sites/default/files/learning/come-visit/SECC/SECC_Fee_Schedule_Dec2023.pdf",
     "price_notes": "SFPUC public community facility; $125/hr individual / $230/hr business / $680/hr special events; 3-hour minimum; 100+ attendees require security. Half-day and full-day rates available.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T22:06:48.440814+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 2,
     "slug": "barebottle-brewing",
     "name": "Barebottle Brewing",
     "venue_type": "brewery",
@@ -64,12 +57,9 @@
     "booking_url": "https://barebottle.com",
     "source_url": "https://www.reddit.com/r/sanfrancisco/comments/14vek2y/recommendations_for_affordable_event_space_for/",
     "price_notes": "$60-$150 for 15-20 people depending on space; no food/beverage minimum.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T21:58:18.037539+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 1,
     "slug": "groundfloor-club",
     "name": "Groundfloor Club",
     "venue_type": "social-club",
@@ -87,12 +77,9 @@
     "booking_url": "https://www.partyslate.com/venues/groundfloor-club",
     "source_url": "https://www.partyslate.com/venues/groundfloor-club",
     "price_notes": "Starts at $799, minimum 3 hours. BYOB/BYOF.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T21:58:18.037539+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 18,
     "slug": "joey-the-cat",
     "name": "Joey The Cat",
     "venue_type": "third-place",
@@ -110,12 +97,9 @@
     "booking_url": "https://www.tagvenue.com/us/district/san-francisco/mission-district",
     "source_url": "https://www.tagvenue.com/us/district/san-francisco/mission-district",
     "price_notes": "Private 2,700 sqft arcade event venue with full kitchen and four restrooms; up to 90 guests; from $800/session.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T22:06:48.440814+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 20,
     "slug": "noes-nest",
     "name": "Noe's Nest",
     "venue_type": "third-place",
@@ -133,12 +117,9 @@
     "booking_url": "https://www.tagvenue.com/us/district/san-francisco/mission-district",
     "source_url": "https://www.tagvenue.com/us/district/san-francisco/mission-district",
     "price_notes": "Indoor area for 30-35 guests; from $100/hr.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T22:06:48.440814+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 19,
     "slug": "the-sycamore",
     "name": "The Sycamore",
     "venue_type": "bar",
@@ -156,12 +137,9 @@
     "booking_url": "https://www.tagvenue.com/us/district/san-francisco/mission-district",
     "source_url": "https://www.tagvenue.com/us/district/san-francisco/mission-district",
     "price_notes": "Patio space for 31-50 guests; from $250/hr.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T22:06:48.440814+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 17,
     "slug": "1920-bar",
     "name": "1920 Bar",
     "venue_type": "bar",
@@ -179,12 +157,9 @@
     "booking_url": "https://www.tagvenue.com/us/rooms/san-francisco/49072/1920-bar/full-buyout",
     "source_url": "https://www.tagvenue.com/us/rooms/san-francisco/49072/1920-bar/full-buyout",
     "price_notes": "Full buyout from $20/person (per-person minimum spend); alcohol license until 2am. Prices include sales tax.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T22:06:48.440814+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 16,
     "slug": "art-gallery-plant-store-outer-richmond",
     "name": "Art Gallery + Plant Store (Outer Richmond)",
     "venue_type": "third-place",
@@ -202,12 +177,9 @@
     "booking_url": "https://www.splacer.co/venue/art-gallery-plant-store-outer-richmond",
     "source_url": "https://www.splacer.co/venue/art-gallery-plant-store-outer-richmond",
     "price_notes": "Bright plant-filled art gallery on Balboa St near Balboa Theater; $95/hr, $150 cleaning fee, BYOB/BYOF allowed, no minimums, flexible hours. Ideal 'third place' format.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T22:06:48.440814+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 3,
     "slug": "common-space-sf-outer-richmond",
     "name": "Common Space SF \u2014 The Shop (Outer Richmond)",
     "venue_type": "community-space",
@@ -225,12 +197,9 @@
     "booking_url": "https://commonspacesf.com/products/book-a-visit-the-shop",
     "source_url": "https://www.instagram.com/commonspacesf/",
     "price_notes": "Bright plant-filled venue; from $65/hr for weekday meetings; community events and parties under 50 guests. Inquire via hello@commonspacesf.com.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T21:58:18.037539+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 4,
     "slug": "the-snug",
     "name": "The Snug",
     "venue_type": "bar",
@@ -248,12 +217,9 @@
     "booking_url": "https://www.thesnugsf.com/private-events-1",
     "source_url": "https://www.thesnugsf.com/private-events-1",
     "price_notes": "Mezzanine rental $100-$500 depending on day. Full buyout (35-100 guests): $150/person open bar + food, $7,500-$15,000 minimums.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T21:58:18.037539+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 21,
     "slug": "creative-soma-loft",
     "name": "Creative SoMa Loft",
     "venue_type": "loft",
@@ -271,12 +237,9 @@
     "booking_url": "https://www.tagvenue.com/us/rooms/san-francisco/79343/creative-soma-loft/soma-loft-off-site-space",
     "source_url": "https://www.tagvenue.com/us/rooms/san-francisco/79343/creative-soma-loft/soma-loft-off-site-space",
     "price_notes": "Creative SoMa loft (Showplace Square); from $300/hr, 4-hour minimum, $350 cleaning fee. Prices include sales tax.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T22:06:48.440814+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   },
   {
-    "id": 22,
     "slug": "loft-style-workspace-soma",
     "name": "Loft-Style Workspace (SoMa)",
     "venue_type": "loft",
@@ -294,8 +257,6 @@
     "booking_url": "https://www.tagvenue.com/us/venues/san-francisco/48207/loft-style-workspace",
     "source_url": "https://www.tagvenue.com/us/venues/san-francisco/48207/loft-style-workspace",
     "price_notes": "Loft-style workspace, entire venue; from $90/hr.",
-    "researched_at": "2026-07-15T22:06:48.440814+00:00",
-    "updated_at": "2026-07-15T22:06:48.440814+00:00",
-    "created_at": "2026-07-15T22:06:48.440814+00:00"
+    "researched_at": "2026-07-15T22:06:48.440814+00:00"
   }
 ]
