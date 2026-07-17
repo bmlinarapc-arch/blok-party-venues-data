@@ -63,7 +63,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Community Hall Full Ballroom dining cap 300. Mon-Thu $184/hr, Fri-Sun $220/hr; 10-hr flat $857. Hall A (half) dining 150; Hall B/C (quarter) 75 each. 4-hr min all rentals. Rates effective 7/1/25. Alcohol permit $75. Non-profit 25% discount.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "antioch-glam-event-spaces",
@@ -95,7 +95,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "150 people, 6 hr minimum. Restrooms, wheelchair accessible, parking, kitchen. Open until 12 AM daily. Price not shown on fetched page.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "antioch-senior-center",
@@ -129,7 +129,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Mno Grant Dining Hall dining 130 ($95/hr). Riverview Room dining 70 ($56/hr). Alcohol permit $75. 4-hr min. Rates effective 7/1/25.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "contra-costa-event-park-building-1",
@@ -166,7 +166,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Building 1: max occupancy 500, banquet 500, 140'x59'. 12-hr use rate $1,000 + $1,000 deposit + security. Full-size kitchen available. County fairgrounds (Contra Costa Event Park).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "ebrpd-contra-loma-regional-park-picnic",
@@ -203,7 +203,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "EBRPD reservable group picnic sites, groups 35-500. Tiered by capacity (CC/Alameda resident vs non-resident): cap 35=$60/$84; 50=$80/$112; 100=$160/$224; 200=$315/$441; 300=$470/$658; 500=$775/$1,085. +$8 reservation fee. Security deposit $50-250. 139 reservable sites district-wide.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "antioch-nick-rodriguez-community-center",
@@ -237,7 +237,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Multi-Use Room cap 220 ($124/hr, 10-hr flat $1,114). Theater cap 190 ($95/hr). Arts&Crafts 35; Conference 30. 4-hr min. Rates effective 7/1/25.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "antioch-smiths-landing",
@@ -272,7 +272,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "River Room up to 24 (from $400 F&B min, 3 hrs daytime); Delta Room up to 50 (from $750 F&B min); Marina Room up to 100 (all-day $4000 F&B min + $500 room fee). Additional hours $500/hr. 20% service charge.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "brentwood-hannah-nicole-vineyards",
@@ -309,7 +309,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Hourly rental by space: Cabernet Room $200-$300/hr (20-30 guests, up to 80 with outdoor expansion); Mt. Diablo Patio $300/hr (up to 150); Vineyard Patio $500/hr (up to 300); Evening Events estate rental $750/hr 5pm-10pm (up to 350). Address from TripAdvisor listing.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "southeast-community-center",
@@ -383,9 +383,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 0.0,
+    "price_min": null,
     "price_max": null,
-    "price_unit": "free",
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -405,7 +405,7 @@
     "source_type": "parking-operator",
     "candidate_status": "candidate",
     "price_notes": "City Center Bishop Ranch has ~300 surface parking spaces (plus 900 garage spaces, ~1,200 total) at 6000 Bollinger Canyon Road; self-parking is free. Hosts a farmers market and events. Privately owned mixed-use center.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "san-ramon-city-center-overflow-structure",
@@ -440,7 +440,7 @@
     "source_type": "parking-operator",
     "candidate_status": "candidate",
     "price_notes": "Additional parking structure near the corner of Sunset Drive and Bishop Drive serving City Center Bishop Ranch overflow. Stall count not stated.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-business-center-meeting-room",
@@ -472,7 +472,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "Seats 8-10. Available by hour, day, or longer. Free on-site parking. Price not shown on fetched page.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "brentwood-community-center",
@@ -505,7 +505,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "32,000 sq ft facility; max cap 200 seated; meeting/activity room up to 88. Rooms rentable separately or together. Official rate sheet not captured.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "brentwood-eight-acres",
@@ -540,7 +540,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Garden Patio 32 seated/50 standing; Main Dining Room 125 seated/125 standing; The Cellar 150 seated/200 standing. No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "brentwood-four-legs-brewing",
@@ -576,7 +576,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Private upstairs area overlooking the brewhouse available for birthdays, showers, company meetings, pop-ups/collabs. No published capacity or pricing. Address from Yelp listing.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "brentwood-vic-stewarts",
@@ -610,7 +610,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Four private rooms: Courtyard 30-45; Wine Room 15-20; Fireside Room 35-55; John Muir Room 20-32 (with own patio). No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-il-fornaio",
@@ -644,7 +644,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "East Loggia up to 80 seated/120 standing (from 16 w/ curtains); South Loggia 20-40; Florence Room up to 16; La Piazza 50 seated/80 standing (Apr-Oct). No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "byron-campos-family-vineyards",
@@ -681,7 +681,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "44-acre vineyard/tasting room and event/concert venue with two indoor event spaces, wedding garden, bocce, baseball field; hosts weddings, concerts, corporate events, private parties. No published capacity or pricing on site. Address from Harvest Time in Brentwood member listing.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "san-ramon-khaki",
@@ -717,7 +717,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Semi-private seats 14-30; seated dinners for 70-75 in other sections; full buyout up to 125 guests. Address per KHAKI anniversary page. No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-art-center-lot",
@@ -752,7 +752,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "City of Richmond parking lot at the Art Center, 2540 Barrett Avenue; listed among city parking facilities with EV charging ports.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-civic-center-main-lot",
@@ -787,7 +787,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "City-owned Civic Center Main Lot at 450 Civic Center Plaza with EVgo DC fast chargers; adjacent to Richmond Civic Center Plaza used for public events.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "pittsburg-city-hall-lot",
@@ -801,9 +801,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 0.0,
+    "price_min": null,
     "price_max": null,
-    "price_unit": "free",
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -822,7 +822,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Secondary free public parking location at Pittsburg City Hall, near Civic Center Drive across from the Pittsburg City Center BART station; used for festival overflow parking. Stall count not stated.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "pittsburg-civic-center-lot",
@@ -836,9 +836,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 0.0,
+    "price_min": null,
     "price_max": null,
-    "price_unit": "free",
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -858,7 +858,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Primary free public parking area at Pittsburg Civic Center, 65 Civic Ave (City Hall address); used as festival parking with shuttles. Stall count not stated.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-716-occasions",
@@ -891,7 +891,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$2,000-$12,000/event; 300 capacity. Outside catering allowed.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-best-western-heritage-inn",
@@ -923,7 +923,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$300-$2,000/event; 130 capacity; 2,000 sq ft meeting space (per Eventective listing).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-centre-concord",
@@ -962,7 +962,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "Parties from $2,975 to $6,500/event (per Eventective title). Main Hall banquet seating for 200; 16,000 sq ft facility. Kitchen and beverage bar. Address not stated on fetched page. | ~8,800 sq ft. Full Ballroom banquet 400 (theater 400, classroom 220). Full Ballroom incl. kitchen: Resident $150/hr weekday, Sat 7-hr package $1,900, Sun 9-hr package $2,700; Non-Res Sat $2,090 / Sun $2,850. Deposit $1,000 (ballroom). Alcohol permit $85. Rates from 7/1/21.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-historical-society-event-center-garden",
@@ -995,7 +995,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$600-$4,000/event; 200 capacity (per Eventective Concord party venues list). Event center with garden.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-senior-center-wisteria-hall",
@@ -1030,7 +1030,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Wisteria Hall banquet 200 (160 w/ dance floor), theater 230. Resident $125/hr, Non-Res $138/hr; Sat 9-hr package $1,600 R / $1,760 NR. Alcohol permit $85. Deposit $750.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-crowne-plaza-concord",
@@ -1063,7 +1063,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "Spaces for 600 guests. Hotel near Mount Diablo State Park.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-doppio-zero-restaurant",
@@ -1096,7 +1096,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "From $30/person. Entire Restaurant min spend from $4000 (from $20000 min spend Fri/Sat/Sun). Indoor 37 seated/60 standing; Outdoor 25 seated/30 standing; whole venue 80/80. Alcohol provided, no BYO. Alcohol licence until 9:30 pm.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-epidemic-ales",
@@ -1130,7 +1130,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Concord brewery; private event booking via events@epidemicales.com. No published capacity or pricing.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-gratitude-lounge",
@@ -1164,7 +1164,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$500-$75,000/event; 350 capacity. Live performances and private events; on-site and outside catering allowed; full bar.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-hilton-concord",
@@ -1199,7 +1199,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$1,500-$3,250 for 50 guests. Golden Gate Ballroom 950, Firepit Courtyard (outdoor) 250, Park Room 150, Club Rooms 70 each, Seminar rooms 80-100. 19,633 sq ft total meeting space. Indoor-outdoor with fire pit courtyard.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-side-gate-brewery",
@@ -1235,7 +1235,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Spaces: The Beer Garden, The Upstairs Loft, Full Venue rental. No rental fee; must meet a bar tab minimum + 20% gratuity (minimum varies by date/time/party size, met on draft beer & hard seltzer only). Outside food and non-alcoholic beverages allowed; outside alcohol not permitted (limited wine exceptions for private events).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-willow-pass-community-center",
@@ -1268,7 +1268,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Main Hall accommodates 200. Mon-Fri $85/hr (4-hr min), Sat $180/hr (6-hr min), Sun $140/hr. Meeting rooms up to 50, $45-55/hr. Sat package $1,920/12hr.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-cielito",
@@ -1302,7 +1302,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Dining room up to 220 (150 sit-down / 180 cocktail); heated patio 60 sit-down / 80 cocktail. No room rental fee; 4% admin fee + 20% gratuity; deposit required.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-community-center-veterans-hall",
@@ -1336,7 +1336,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Community Hall (rooms A,B,C combined) 2,301 sq ft: dining 160 / assembly 220. Fee schedule PDF exists but rates not captured (garbled on fetch).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "diablo-diablo-country-club",
@@ -1374,7 +1374,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Historic Mt. Diablo-setting club hosting weddings, corporate meetings, conferences, company outings, fundraisers. No published capacity or pricing on site. Address from Modern Wedding DJs vendor listing.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-pavilion-diablo-creek",
@@ -1411,7 +1411,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Modern outdoor facility on Diablo Creek Golf Course; covered seating for up to 350 for ceremony and up to 350 for reception; gazebo, lawn, full-service bar. No published dollar pricing; menus/pricing via clubhousecatering.com.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "discovery-bay-golf-country-club",
@@ -1448,7 +1448,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Offers a variety of spaces including a grand ballroom and intimate gathering spaces; planning line (925) 634-0700. No published numeric capacity or pricing. Address needs confirmation (from WeddingWire/club listing).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "antioch-surplus-i-street-parcels",
@@ -1484,7 +1484,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Two adjacent City of Antioch surplus parcels on I Street downtown: APN 066-061-009 (0.39 acres) and APN 066-061-010 (0.18 acres), combining to ~0.57 acres.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-clocktower-municipal-lot",
@@ -1498,9 +1498,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 0.0,
+    "price_min": null,
     "price_max": null,
-    "price_unit": "free",
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -1519,7 +1519,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Largest downtown Danville municipal surface lot with 233 parking spaces, adjacent to Railroad Avenue between Prospect and Linda Mesa Avenues, near the Clocktower building.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-front-street-municipal-lot",
@@ -1533,9 +1533,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 0.0,
+    "price_min": null,
     "price_max": null,
-    "price_unit": "free",
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -1554,7 +1554,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Downtown Danville municipal surface lot with 81 parking spaces, adjacent to Front Street south of East Prospect Avenue.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-library-community-center-lot",
@@ -1568,9 +1568,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 0.0,
+    "price_min": null,
     "price_max": null,
-    "price_unit": "free",
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -1590,7 +1590,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Downtown Danville municipal surface lot with 86 parking spaces, adjacent to the Library/Community Center at 400 Front Street.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-railroad-municipal-lot",
@@ -1604,9 +1604,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 0.0,
+    "price_min": null,
     "price_max": null,
-    "price_unit": "free",
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -1625,7 +1625,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Downtown Danville municipal surface lot with 222 parking spaces, adjacent to Railroad Avenue between Prospect/Linda Mesa Avenues and Church Street.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-rose-street-municipal-lot",
@@ -1639,9 +1639,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 0.0,
+    "price_min": null,
     "price_max": null,
-    "price_unit": "free",
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -1660,7 +1660,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Small downtown Danville municipal surface lot with approximately 17 parking spaces, at the north end of Rose Avenue north of Linda Mesa Avenue.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-village-theater-municipal-lot",
@@ -1674,9 +1674,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 0.0,
+    "price_min": null,
     "price_max": null,
-    "price_unit": "free",
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -1695,7 +1695,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Downtown Danville municipal surface lot with 71 parking spaces, adjacent to the Village Theater at 233 Front Street.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "martinez-mellus-street-county-lot",
@@ -1730,7 +1730,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "County parking lot off Mellus Street in downtown Martinez; number of stalls not stated on the city page.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-4th-franklin-lot",
@@ -1764,7 +1764,7 @@
     "source_type": "parking-operator",
     "candidate_status": "candidate",
     "price_notes": "Downtown surface lot listed on SpotAngels at 400 East Franklin Street ($6 for 2 hours as booked rate). Note: SpotAngels aggregates lots that may span Richmond CA and Richmond VA; verify location before booking.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-marina-way-macdonald-lot",
@@ -1778,9 +1778,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 1.0,
-    "price_max": 3.0,
-    "price_unit": "per-hour-or-day",
+    "price_min": null,
+    "price_max": null,
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -1799,7 +1799,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "City of Richmond-owned paid public surface lot with 43 stalls at corner of Marina Way and MacDonald Avenue. Fees $1 hourly / $3 daily / $45 monthly permit. Overnight parking prohibited.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-broadway-garage",
@@ -1834,7 +1834,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "City-owned garage with 464 spaces, one block south of the downtown Library per Walnut Creek Downtown. Public hourly fee $1.25/hr, first hour free.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-lesher-north-locust-garage",
@@ -1870,7 +1870,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "City-owned garage with 664 spaces per Walnut Creek Downtown; public hourly fees $1.25/hr with first hour free; monthly $40 per ParkMe. Adjacent to Lesher Center for the Arts.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-south-locust-garage",
@@ -1905,7 +1905,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "City-owned garage with 250 spaces, located between Mt. Diablo Blvd. and Cypress Street per Walnut Creek Downtown. Public hourly fee $1.25/hr, first hour free.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "martinez-downtown-amtrak-off-street-lots",
@@ -1919,9 +1919,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 0.5,
+    "price_min": null,
     "price_max": null,
-    "price_unit": "per-hour",
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -1941,7 +1941,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Downtown Martinez / Amtrak study area has 641 off-street spaces (of 1,873 total). Priced at $0.50/hr; adjacent facilities noted as no more than 50% occupied at any time (underutilized). Off-street lots recommended for daily long-term parking.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-library-parking-lots",
@@ -1975,7 +1975,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Front lot off Salvio St has ~21 spaces (3 ADA, 3 short-term, 15 regular); back lot off Parkside Drive (adjacent to Concord Civic Center) has ~70+ regular spaces plus 3 ADA, per Contra Costa County Library. Free.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "antioch-ne-corner-2nd-l-street-cre",
@@ -2011,7 +2011,7 @@
     "source_type": "cre-listing",
     "candidate_status": "candidate",
     "price_notes": "LoopNet-listed downtown corner parcel at NE corner of W 2nd Street & L Street, near the Antioch Marina waterfront. Acreage and price not confirmed from fetched source.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "antioch-surplus-801-w-2nd-street",
@@ -2047,7 +2047,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "City of Antioch surplus property, APN 066-092-001, 0.17 acres, downtown location.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "antioch-surplus-908-w-2nd-street",
@@ -2083,7 +2083,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "City of Antioch surplus property, APN 066-102-004, 0.69 acres, downtown location. Largest downtown surplus parcel on the city list.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-aracely-lounge",
@@ -2118,7 +2118,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Upstairs private dining room seats up to 30; full venue buyouts available. Family-style menu $33/guest until 3pm, $51 for dinner (12+ parties).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-peasant-and-pear",
@@ -2153,7 +2153,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Semi-private banquet room up to 30; adjoining courtyard up to 50; entire restaurant buyout up to 85 inside & 50 outside (135 combined). No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "lafayette-headlands-brewing",
@@ -2189,7 +2189,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Reserves space for groups of 20+; reservations may include a space rental fee plus a food & beverage minimum (amounts not stated). All reservations are outdoors; fees fully refunded in bad weather. Weekend peak-hour requests (Fri 3-7p, Sat/Sun 12-6p) not always available.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "martinez-firehouse-brew-grill",
@@ -2222,7 +2222,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Private dining for groups up to 50; separate entrance and private restroom. No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "martinez-five-suns-brewing",
@@ -2260,7 +2260,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Spaces & max seated capacities: Garden (west side) up to 175 seated; The Brewery up to 150 seated; private indoor space up to 49; The Vault up to 40. Renting a portion of garden is most affordable; full buyout most expensive. No dollar amounts published. Outside food allowed (order in any food). Address from Yelp listing.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-versatile-space-vibe-bistro",
@@ -2293,7 +2293,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$175-$200/hr, 4 hr minimum, 3200 sqft, 250 people. In-house catering offered. Same operator as Vibe Bistro Downtown Richmond (Tagvenue).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-barebottle-brewing",
@@ -2330,7 +2330,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Reservable spaces and capacities: Picnic Table up to 8; High Top Tables up to 10; Lounge up to 40; Outdoor Patio up to 12; The Beer Hall up to 100; Full Taproom up to 300. Beers $7-9, wine $13-14. No outside alcohol (license does not allow BYOB). Large corporate events via events@barebottle.com.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-fizz",
@@ -2366,7 +2366,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Main Dining Room 60; Bar 16; Private Bubbles Room up to 14 seated/20 standing; Patio up to 30; total buyout up to 126. 20% auto gratuity. No F&B minimum published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-gotts-roadside",
@@ -2401,7 +2401,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Dining Room $250 per-table fee + F&B, service charge & tax (min 24 guests); Patio up to 40; Bar buyout up to 55; Restaurant buyout up to 350; space fees variable.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-limon",
@@ -2435,7 +2435,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Mezzanine up to 40 seated (semi-private); Partial Mezzanine up to 25 seated; Full Buyout up to 80 seated / 150 reception. No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-teleferic-barcelona",
@@ -2470,7 +2470,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Main Dining Room (semi-private) up to 65 seated/125 standing, from $45-$65 per person. Dali Room from $1650 min spend; Terrace from $2000 min spend (per Tagvenue).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-teleferic-barcelona-dali-room",
@@ -2503,7 +2503,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "450 sqft, 25 seated / 35 standing. Rental price not stated; add-on packages listed (Wine & Beer $30pp, Sangria Bar $35pp, Open Bar $50pp). Alcohol licence until 10:30 pm.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-teleferic-barcelona-main-dining-room",
@@ -2538,7 +2538,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "From $45-$65 per person, package prices start at $45. 2000 sqft. In-house catering only, no external catering. Venue provides alcohol, no BYO; alcohol licence until 10:30 pm.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-the-garden",
@@ -2572,7 +2572,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "130 max seated / 130 max standing. Built 1993, reimagined 2022. In-house caterer only. Pricing not listed on PartySlate.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "el-cerrito-berkeley-country-club",
@@ -2605,7 +2605,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "Spaces for 100-200 guests (1 outdoor, 2 country clubs). Banquet hall wedding venue in El Cerrito.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "el-cerrito-cerrito-vista-park-picnic",
@@ -2640,7 +2640,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Cerrito Vista (6 tables, BBQ, cap 50): $245/day Resident, $307/day Non-Res. Arlington Park sites cap ~20: $89-104/day.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "el-cerrito-community-center",
@@ -2677,7 +2677,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Social Hall dining 250 (assembly 224). Hall+Kitchen+Skylight+Patio: Resident $1,000, Non-Res $1,250 (5-hr min, add'l $200/$250 hr). Alcohol fee $197. Deposit $624. Non-profit 25% discount.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "san-ramon-bridges-golf-club",
@@ -2717,7 +2717,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Rental fee $300-3,000/event (varies by space); per-person packages $59-75; F&B minimum varies by day/time/space; 22% operation fee additional. Spaces: Garden Terrace (300), Pavilion (300 seated/400 standing), Clubhouse (120 seated/150 standing), Fireside Room (48), View Room (60). 5-hr rental, extendable to 2 AM. Alcohol in-house or BYO, corkage $14/bottle. Address from thebridgesgolf.com golf-club page.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-gardens-heather-farm",
@@ -2756,7 +2756,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Rental fee $2,000-8,000/event (varies by day of week and duration). Capacity up to 150 seated indoors/outdoors. Catering from preferred list or BYO (all caterers pre-approved). Alcohol BYO (wine, beer, hard liquor); licensed bartender required. Address from Yelp listing; Camelia Room max 150 per CBS. | Up to 150 guests. Indoor/outdoor wedding and event venue. Pricing not listed on PartySlate.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "hercules-community-center",
@@ -2789,7 +2789,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Hercules Community Center Event Hall exists; Foxboro Community Center max cap 48. Capacity/rate data not accessible (city site blocked fetch).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-rich-city-studios",
@@ -2821,7 +2821,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "Recording/photo studio (Studio A & B), lounge area, kitchenette, free parking. No catering. Price and capacity not stated on page.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-vibe-bistro-downtown",
@@ -2854,7 +2854,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "From $150 hire fee/hr, 3-hr minimum for full space. 150 seated / 200 standing. BYO alcohol allowed and alcohol provided; in-house and external catering allowed. Tagvenue lists city as San Francisco but address is Richmond, CA.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "kensington-community-center",
@@ -2891,7 +2891,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Social Hall dining 264, standing 246. Main Hall Resident $130/hr, Non-Res $200/hr (4-hr min). Entire CC $255 R / $325 NR. Kitchen $80 flat. Amphitheater $45/hr.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "lafayette-hideout-kitchen",
@@ -2925,7 +2925,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Multiple spaces: Story Teller 25-50; Banquette 20-25; Wine Room 10-20; Main Patio 40-80; Lounge Patio 20-30; Main Dining 75-100; Bar Lounge 30-50. Event inquiries for 20+ guests. No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "lafayette-community-center",
@@ -2961,7 +2961,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Live Oak Room cap 225 (Private Resident $250/hr, Non-Res $350/hr; 4-hr min). Jennifer Russell Building cap 240 ($275 R / $375 NR /hr). Sequoia (50, no food), Cedar (45), Arts&Crafts (45) $100-150/hr. Kitchen $250-300 flat. Live Oak Patio $100-200.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "lafayette-metro",
@@ -2995,7 +2995,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Private Dining Room w/ fireplace up to 70; Sunroom (semi-private) up to 40; Outdoor Patio up to 150; Restaurant exclusive up to 300 (summer) / 150 (winter). No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "lafayette-uncle-yus",
@@ -3028,7 +3028,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "VIP Dining Room 50 seated/70 cocktail; F&B min $2000 weekday dinner / $2500 weekend dinner; no room rental fee. Whole restaurant 150 seated/200 cocktail.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-east-brother-beer",
@@ -3065,7 +3065,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Richmond taproom accommodates groups of up to 40 during normal business hours; bookable for a fee (amount not stated) with a minimum deposit to secure. Single tab with automatic 20% gratuity. Address from Yelp/LinkedIn HQ listing.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "martinez-library-meeting-room",
@@ -3100,7 +3100,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Meeting Room cap 60 (non-profits only). Golden Hills multi-purpose room max 25; Nancy Boyd room max 20. 3-hr min hourly. Rates not on page.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "martinez-yacht-club",
@@ -3139,7 +3139,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Clubhouse available for party/event rental; weekend rates higher than mid-week, nonmembers pay a different price; limited number of nonmember weekend rentals per month. Amenities: full bar, dance floor & sound system, galley, outdoor deck & BBQ, gazebo, Carquinez Strait views. No published dollar amounts. Address from World Sailing Guide listing.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "groundfloor-club",
@@ -3296,7 +3296,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Moraga biergarten/brewery with wooded patio and full food menu. No published private-event capacity or pricing on site.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "moraga-hacienda-de-las-flores",
@@ -3334,7 +3334,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Town-owned historic estate, operated by Wedgewood Weddings. Rental fee ~$1,400-$3,500 per HereComestheGuide/Wedding-Spot (up to $9,995/event peak per HereComestheGuide). 8 hrs event time; additional hrs $220/hr. Capacity 50 indoor / 200 outdoor. Deposit $750, application fee $250. Moraga resident discounts. Pricing from commercial aggregators, not a .gov rate sheet.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-shadowbrook-winery",
@@ -3368,7 +3368,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Walnut Creek's first winery/tasting room; a wide variety of site options for private events. Events handled by exclusive partner Meetings at Meritage LLC (meritagemeetings@gmail.com, 925.988.9463). No published capacity or pricing.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "oakley-brownstone-gardens",
@@ -3401,7 +3401,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$6,500 starting price; up to 300 guests. Outdoor garden wedding venue.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "oakley-recreation-center-great-room",
@@ -3436,7 +3436,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Great Room full cap 250, half sides cap 125 each. Great Room resident (Group 2) M-Th $184/hr, F-Su $263/hr. Side A/B M-Th $105 / F-Su $142/hr. Kitchen $47-53/hr. Studio 1 (<=50) $75/hr. Deposit $250. Picnic areas $75-125/day. Updated 4/27/24.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "pittsburg-old-town-marina-lot",
@@ -3473,7 +3473,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Large surface parking lot at the termination of Railroad Avenue between Old Town and the Marina, described by the City as a 'large parking lot' barrier the city is studying to reactivate. Marina at 51-E Marina Blvd has 60 car-with-trailer spaces per California State Parks; total car spaces not stated.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "orinda-community-center",
@@ -3506,7 +3506,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Founders Auditorium 1,990 sq ft, assembly 273 / dining 120. Meeting Rooms 35-70 dining. Fees set by Council resolution; rates not published in guide (email required).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "orinda-library-auditorium",
@@ -3540,7 +3540,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Auditorium assembly 114 / max 160; Garden Room 71 (dining 35). Fees by Council resolution; not published in guide.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "1920-bar",
@@ -3663,7 +3663,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Napa Room 36 guests; Sonoma Room 36 guests; combined Sonoma+Napa 72 guests. No pricing published on page.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "clayton-oakhurst-country-club",
@@ -3703,7 +3703,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Spaces & capacities: Heritage Room (2,000 sq ft) up to 130 guests with adjoining private terrace; Diablo View Room up to 60; The Terrace seats up to 60. Two ceremony sites (Mt. Diablo View, Mt. Zion View). No published dollar pricing. Address from Yelp/Golf Digest listings.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "pinole-senior-center",
@@ -3739,7 +3739,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Main Hall ~4,000 sq ft, banquet max 250. First 5 hrs Resident $750, Non-Res $900 (5-hr min); extra hr $75 R / $90 NR. Deposit $500 (no alcohol) / $750 (alcohol). Large Meeting Room (40) $80/2hr; Small Meeting Room $70/2hr.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "pleasant-hill-contra-costa-country-club",
@@ -3777,7 +3777,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Three wedding packages per person: Silver $87, Gold $95, Platinum $109; prices exclude 20% service charge and 8.5% sales tax (CBS Sacramento). WeddingWire lists max 200 guests. Address 801 Golf Club Rd per CBS.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "pleasant-hill-isla-grand",
@@ -3810,7 +3810,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Dining Area (semi-private) up to 95 seated / 150 standing; from $8,740 minimum spend per session (Tagvenue).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "pleasant-hill-perera-pavilion-community-center",
@@ -3846,7 +3846,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Perera Pavilion cap 220 (2,871 sq ft). Sat $287-383/hr (Non-Profit/Resident/Non-Res-Commercial tiers), Fri-after-5/Sun $223-297/hr, weekday $124-165/hr. 2-hr weekday min, 5-hr Fri/Sun min. Deposit $750. Catering kitchen $85. Alcohol permit $75.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-riggers-loft-wine-company",
@@ -3881,7 +3881,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "From $25/person. Inside and Outside spaces both 300 seated / 302 standing. Waterfront wine bar with Bay views. BYO alcohol and alcohol provided; in-house and external catering. Address is Point Richmond, CA (Tagvenue tags city as SF).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "the-snug",
@@ -3943,7 +3943,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "Capacity inferred from 100 folding chairs available; price not shown on fetched page. Kitchen area with fridge, wine chiller, sink. BART-adjacent.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-el-agave-azul",
@@ -3975,7 +3975,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Private Sunroom seats up to 36; room fee $150 + 18-20% gratuity; $200 deposit; includes up to 3 hours ($75/hr additional). No outside food/drinks (no BYOB).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-nevin-community-center",
@@ -4009,7 +4009,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Social Hall cap 190 $139/hr. Multipurpose (50) $104/hr; Conference (30) $83/hr. 2-hr min. Kitchen $51 flat. Alcohol fee $132.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-recreation-complex-social-hall",
@@ -4044,7 +4044,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Social Hall cap 190 $158/hr (2-hr min; includes attendant/tables/chairs). Kitchen $51 flat. Damage fee $514. Alcohol fee $132. Non-profit 25% discount.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "richmond-shields-reid-community-center",
@@ -4077,7 +4077,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "$119/hr (2-hr min). Kitchen $51 flat. Alcohol fee $132. Non-profit 25% discount.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "antioch-rivertown-downtown-parking-lots",
@@ -4113,7 +4113,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "City-owned Rivertown parking lots in downtown Antioch (near 2nd/G Streets). City has considered allowing a restaurant to use a portion of a lot for a dining deck, indicating flexible activation potential. Stall count not stated.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "antioch-marina-barbara-price-lot",
@@ -4127,9 +4127,9 @@
     "capacity_seated": null,
     "capacity_standing": null,
     "capacity_max": null,
-    "price_min": 0.0,
+    "price_min": null,
     "price_max": null,
-    "price_unit": "free",
+    "price_unit": null,
     "min_hours": null,
     "food_beverage_min": null,
     "byob": null,
@@ -4151,7 +4151,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Large waterfront surface lot at the foot of L Street (5 Marina Plaza) in downtown Antioch's Rivertown; approximately 180 vehicle spaces plus 80 trailer spaces and 12 ADA per SF Bay Water Trail. Considerable free parking per Pier Fishing.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "antioch-river-town-square-lumber-yard",
@@ -4189,7 +4189,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Former Antioch Lumber Company / Beede lumber yard site in historic downtown Rivertown along the Sacramento-San Joaquin River; city is planning it as 'River Town Square,' a park and event center / community gathering space. Acreage not stated.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "alamo-round-hill-country-club",
@@ -4229,7 +4229,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Spaces & capacities: Vista Ballroom 320 seated (280 with dance floor); Breezeway 160 event / 80 dining; traditional room 160 seated / 80 patio; golf-course-overlook area 140 seated. No published dollar pricing. Address 3169 Round Hill Rd per club contact page.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "san-pablo-community-hall",
@@ -4264,7 +4264,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Cap 96. Includes 15 rectangular + 10 round tables, 96 chairs, full commercial kitchen. Hourly rate includes $5/hr maintenance fee; base rate not captured.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "san-ramon-amador-rancho-center",
@@ -4297,7 +4297,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Bella Vista assembly 200 / dining 160. Private: Resident $112 Mon-Thu / $177 Fri-Sun; Non-Res $140/$222. Rose bundle 8-hr $1,775 R / $2,150 NR.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "san-ramon-canyon-view-event-center",
@@ -4331,7 +4331,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$6,345 starting price; 300+ guests. Outdoor patio ceremony + indoor ballroom with panoramic city views. Full-service catering; bar services ~$12/person.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "san-ramon-crescent-bistro",
@@ -4364,7 +4364,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Covered patio up to 30 adults; dining room up to 50 adults; custom menus. No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "san-ramon-modern-private-meeting-room",
@@ -4396,7 +4396,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$55/hr, 2 hr minimum, 205 sqft, 8-person conference room.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "san-ramon-community-center-central-park",
@@ -4432,7 +4432,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Fountain Room assembly 350 / dining 250. Hourly private: Resident Mon-Thu $145 / Fri-Sun $301; Non-Res $182/$377. Diamond 10-hr wedding bundle $5,100 R / $6,400 NR. Terrace dining 80.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "creative-soma-loft",
@@ -4525,7 +4525,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "The Sycamore Room (private, indoor): 40 seated / 60 standing; price $31-$50 per person (OpenTable). Privacy glass doors, 82-inch screen.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "danville-piatti",
@@ -4561,7 +4561,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Tuscan Room (private) up to 38 seated/45 cocktail; Mediterranean Room 45 seated/60 cocktail; Back Patio 60 seated/80 cocktail; Full buyout 200 seated/300 cocktail. No room fee; F&B minimum applies (varies), $200 deposit ($500 May/Jun/Dec).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-benihana",
@@ -4595,7 +4595,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Private & semi-private dining rooms offered for groups around the hibachi grill; specific capacities and pricing not published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-grant-street-garage",
@@ -4630,7 +4630,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Grant Street garage near Todos Santos Plaza; Swift Plaza campus notes 126 spaces in the 1755 Grant Street garage. Free public garage per Visit Concord.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-salvio-street-garage",
@@ -4667,7 +4667,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Concord Redevelopment Agency parking garage at Salvio & Colfax, across from The Parlor Barber Shop (2230 Salvio St). Free public parking. Two adjacent downtown city garages total approximately 941 spaces per LoopNet listing for 2151 Salvio St.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "concord-todos-santos-parking-center",
@@ -4703,7 +4703,7 @@
     "source_type": "city-gis",
     "candidate_status": "candidate",
     "price_notes": "Free public parking center across from 2068 Salvio St, adjacent to Todos Santos Plaza. One of two free city garages serving downtown Concord events per Visit Concord.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-civic-park-community-center",
@@ -4739,7 +4739,7 @@
     "source_type": "city-parks",
     "candidate_status": "verified",
     "price_notes": "Assembly Hall $495/event weekday (3-hr min); Fri/Sun $1,575/7hr; Sat $2,520/9hr. Alcohol fee $200 (no hard liquor). Gazebo +$700. Capacity not confirmed from source.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-creekside-hall",
@@ -4773,7 +4773,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$700-$1,000/event; 350 capacity. Outside catering allowed (caterer or food truck); no outside beverages; full bar offered.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-galpao-gaucho",
@@ -4807,7 +4807,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Private room up to 50 guests; entire space up to 200 guests. No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-havana",
@@ -4839,7 +4839,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "'Little Havana' private side room (own entrance & restroom, projector) up to 38 seated / 45 reception; requires a food & beverage minimum (amount not published).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-massimo-ristorante",
@@ -4875,7 +4875,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$29-$65/person (parties). Main dining room 100, upstairs banquet 50, downstairs banquet 35, outdoor patio 30. On-site catering; full bar. | Upstairs banquet room max 50; downstairs banquet room 35; main dining room max 100; outdoor patio up to 30. No pricing published.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-montesacro-event-area",
@@ -4908,7 +4908,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "31 seated / 50 standing. Alcohol licence until 9:00 pm (extension available). Price not stated on page.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-mt-diablo-boardroom-kitchen",
@@ -4940,7 +4940,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$350/hr; capacity 15. Meeting/lunch events; catering kitchen, A/V equipment.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-mt-diablo-cafe",
@@ -4972,7 +4972,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$500/hr; capacity 15. Indoor event space in renovated plaza; natural lighting, outdoor access.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-mt-diablo-outdoor-space",
@@ -5004,7 +5004,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$650/hr; capacity 15 (min rate based on 10-hr day for crew of 15 or less). Renovated plaza with outdoor TV/eating area.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-original-joes",
@@ -5037,7 +5037,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Private Dining Room up to 40 guests (own bar, indoor-outdoor fireplace, private patio). Subject to F&B minimum, room fee, service charge & tax (amounts not published).",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-parada-new-peru",
@@ -5069,7 +5069,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$12-$21.50/person; max 80 people. On-site catering; full bar/lounge.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-private-wine-tasting-events",
@@ -5101,7 +5101,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$100/hr; max capacity 15 persons for private wine tasting. Outside food allowed.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-renaissance-hotel",
@@ -5134,7 +5134,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "Nearly 4,000 sq ft of venues; Renaissance Room accommodates 130 wedding banquet guests.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-spacious-backyard-oasis",
@@ -5167,7 +5167,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "$180/hr; 100 guests; 12,000 sq ft backyard with lawns and patios, main gazebo. Also appears on Peerspace as 'Charming backyard venue'.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-spacious-gracious-multi-space-venue",
@@ -5203,7 +5203,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "Sanctuary $250/hr (seats up to 200, 2400 sf); Community Room $125/hr; lawn/patio only $75/hr; Sanctuary+Community Room combined $350/hr. Outside food and non-alcoholic beverages allowed; cooking allowed on-site.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-spoontonic-lounge",
@@ -5236,7 +5236,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "Max 95 people. Nightclub/lounge. Price not stated on page.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-boundary-oak-clubhouse",
@@ -5277,7 +5277,7 @@
     "source_type": "brewery-site",
     "candidate_status": "verified",
     "price_notes": "Per-guest packages (up to 100 guests): Devotion $100, Tradition $115, Forever $145, Legacy $160; ceremony fee $2,500; Saturday-evening surcharge $25/guest (Apr-Oct) or $15/guest (Nov-Mar); 22% service charge. Here Comes The Guide lists all-inclusive at $120/person with 2-hr pre-event access + 5-hr rental and rental fee $0-4,000/event. Max capacity 250. | Spaces for 250-300 guests (1 ballroom, 1 country club). Golf course clubhouse with views of Concord/San Ramon Valley.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-ruth-bancroft-garden",
@@ -5310,7 +5310,7 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "100 max seated / 180 max standing. Outdoor garden plus indoor Visitor & Education Center. Pricing not listed on PartySlate.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-torsap-thai",
@@ -5344,7 +5344,7 @@
     "source_type": "restaurant-site",
     "candidate_status": "verified",
     "price_notes": "Full restaurant buyout 125-150 (5,000 sq ft), packages start at $95/person; Patio 30-35 seated/40+ reception; Small Private Gatherings 35-40.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   },
   {
     "slug": "walnut-creek-shadelands-ranch-museum",
@@ -5378,6 +5378,6 @@
     "source_type": "aggregator",
     "candidate_status": "verified",
     "price_notes": "PartySlate: spaces for 150-300 guests (1 outdoor). Eventective lists Shadelands Ranch Museum at $2,000/event, 300 capacity. Historic ranch museum.",
-    "researched_at": "2026-07-17T16:46:27.930890+00:00"
+    "researched_at": "2026-07-17T16:47:39.327644+00:00"
   }
 ]
